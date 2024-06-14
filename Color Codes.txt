@@ -1,0 +1,3 @@
+Color Codes:
+Primary : #3792B1
+Secondary : #CEE7FE
